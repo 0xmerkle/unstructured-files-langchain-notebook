@@ -1,0 +1,137 @@
+Rihanna had the most effective commercial of the Super Bowl. About halfway into her halftime set (which attracted 119M viewers—6M more than the game), she touched up her make-up with her very own Fenty products. According to Launchmetrics, the stunt garnered Fenty $5.6M in earned media value within 12 hours.
+Commerce bleeds into every aspect of our lives. It’s there in the Super Bowl halftime show, sure, but it’s also the fuel powering the game: ~70 commercials, costing $7M for a 30-second spot, drive the NFL’s revenue from the game. (About 70% of Super Bowl ads are for alcohol, cars, and food.)
+
+While commerce has been around forever, its centrality in our lives is relatively new. One of the earliest recorded forms of commerce was cattle trade around 10,000 B.C. Cattle had a fixed value and were exchanged for goods and services. As a result, the Latin word for money, pecunia, comes from pecus, which is the Latin word for cattle.
+
+But before the Industrial Revolution, product differentiation was limited. As a result, marketing in its modern form didn’t exist. Only with the automation of manufacturing—which unlocked the floodgates of production—did it become essential to advertise products given consumers now had choice. The internet added accelerant to the fire, introducing new sales channels and the advent of digital advertising. Today, we’ve come a long way from trading cows: commerce is a $26 trillion global market, and e-commerce comprises about $6 trillion of that.
+A year ago, I wrote Talking Shop: The Transformation of Commerce—a two-part deep-dive into 10 trends shaping commerce. It’s time for a refresh. This week and next, I’ll cover 10 new trends:
+
+Power to the People
+
+Gen Z Interns & Viral Marketing
+
+The CAC Rules No Longer Apply
+
+Influencer Commerce & Celebrity Brands
+
+Self-Expression
+
+AI 🤝 Retail
+
+Immersive Shopping
+
+B2B Commerce Makes Life Easier
+
+Sustainability
+
+Don’t Discount Discounters
+
+This week, I’ll cover #1-5. Next week, I’ll tackle #6-10.
+
+Let’s dive in.
+One of the challenges of online shopping is the omnipresence of dark patterns.
+
+A “dark pattern” is a tactic used by a retailer to trick the consumer into doing something that benefits the retailer more than the consumer. Most retailers accomplish this with misleading web and app design. Examples include sneaking extra items into your cart, or using confusing language when you go to cancel an order—“Do I click ‘Cancel’ or ‘Ok’ to complete cancellation?” 🤔
+
+A study by Merchant Machine found that Amazon—famous for its customer obsession—is the worst culprit in retail, with 11 identified dark patterns. The most infuriating one that I consistently come across is the default to “Subscribe” to recurring purchases, versus complete a one-time purchase; here’s what it looks like when I go to order Whey protein:
+Dark patterns may succeed in juicing short-term numbers, but over time they erode customer trust and tarnish a retailer’s reputation. One of my long-held beliefs about commerce—and about consumer-facing technology in general—is that power is always shifting to the customer. The arcs of technology and business bend toward customer-friendly products. This is especially true in today’s world of abundant consumer choice.
+
+As a result, we’re seeing a shift to more products built to improve the customer experience rather than to get in the way. One example: loyalty programs. Starbucks just passed 30 million U.S. users in its rewards program, meaning that roughly 1 in 8 American adults is a member. (Fun fact: for many years, Starbucks was America’s leading mobile payments app—it now sits in second place behind Apple Pay, but still ahead of Google Pay.)
+Loyalty is key to driving customer lifetime value and to making a brand’s unit economics work. Nike’s loyalty members account for 70% of sales in new stores; Prime members spend 2.3x more on Amazon; Marriott loyalty members book 50% of rooms. Companies like Yotpo let retailers build customized rewards programs, offering a flexible infrastructure layer for loyalty.
+
+We’re also seeing a newer generation of startups build with customers in mind:
+
+Catch, one of our portfolio companies at Index, cuts out credit card companies, letting shoppers pay by bank or debit. In return, shoppers earn 10% in store credit. As Catch puts it: “You win. Brands win. Everyone wins except the credit card companies.”
+Safara, meanwhile, brings loyalty to hotels, offering a unified program across a million hotels that gives customers 10% back on every booking.
+And Beam, another company we work with at Index, embeds social impact into the checkout experience. Customers can donate 1% of their cart to a cause of their choice—say, LGBTQ+ homelessness, ocean conservation, or school lunches for low-income kids. Importantly, it’s the brand giving up that 1%, not the customer. Shoppers get to shop their values, at no cost.
+Catch, Safara, and Beam are all built around delivering a better experience to the consumer. Their business models work because brands also win: average order values swell, conversion rates improve, retention ticks up. Incentives are aligned.
+
+Each is an example of a broader trend in commerce: power is shifting to the people, and the brands that win aren’t the brands that take advantage of the customer’s naivete, but the brands that deliver a more affordable, convenient, and enjoyable shopping experience.
+2) Gen Z Interns & Viral Marketing
+Last summer, 20-year-old Mary Clare Lacke interned at Claire’s, the teen accessories retailer that was once the go-to place for any 90s-baby looking to get her ears pierced. Claire’s revenue declined throughout the 2010s as the brand struggled to stay relevant in the digital age. One of Lacke’s tasks as an intern: inject fresh energy by running Claire’s nascent TikTok account.
+
+In an 11-second video, Lacke riffed on a TikTok trend called “krissing”—a bait-and-switch type of video, inspired by Kris Jenner, that misleads the viewer and then reveals the fake-out. Lacke used #krissing to reveal that Claire’s did indeed still sell gummy bear earrings. The video generated 1.5 million views and 20,000 new followers for the company’s TikTok account.
+This story speaks to a new phenomenon: the rise of the Gen Z TikTok intern.
+
+Mary Claire Lacke is now one of four TikTok “college creators” that work for Claire’s as interns during the school year, producing new TikTok videos each week. Other brands are following suit, leveraging young people’s digital fluency to stay relevant.
+The payoffs can be immense: while a 30-second Super Bowl ad would have cost you $7 million, the 11-second Claire’s video reached millions (with much better targeting to boot), and likely cost just a few hours of hourly wages for a college intern.
+
+Mastering social channels is crucial in today’s world. The Economist found that 50% of consumers have bought from a brand they recently discovered on social media.
+A recent McKinsey study takes things one step further: six in 10 Americans under 25 have actually completed a purchase on a social media site. Just this week, TikTok announced plans to move forward with its Shop feature, which gives brands the chance to sell products directly on the app with a full checkout experience.
+
+The savviest brands consistently go viral: E.l.f. Cosmetics with its “Eyes Lips Face” TikTok song; Chipotle with the Lid Flip Challenge; Wendy’s with its Twitter roasts. One of my favorite examples: the time Burger King announced it would offer 1-cent Whoppers to any smartphone user within 600 feet of a McDonald’s. Within a week, the campaign drove over 1M downloads of the Burger King app, and the app went from #400 to #1 on the App Store.
+In last year’s Revisiting Lifetime Value and Customer Acquisition Cost, I wrote about some examples from Calm, one of the savviest marketers out there—sponsoring the anxiety-ridden 2020 Presidential Election coverage on CNN, for example, or covering Naomi Osaka’s fine for withdrawing from the French Open for her mental health. My favorite: Baa Baa Land (a riff on La La Land), an 8-hour film of sheep grazing in a field. The company marketed it as “the dullest movie ever” and promised it as the ultimate insomnia cure.
+Some companies even build virality into their features: Spotify Wrapped is a masterclass in viral marketing (in 2021, 60M users shared their Wrapped), while TikTok’s watermark and easy export features powered its ascent.
+
+Figuring out how to go viral and how to generate earned media value—even if it requires hiring a Gen Z intern—is vital to survival as a brand in 2023. There’s more “noise” out there than ever before, and staying top-of-mind for consumers is a constant challenge. This is particularly true given what’s happening with customer acquisition costs.
+
+3) The CAC Rules No Longer Apply
+Apple’s App Tracking Transparency (ATT) changes have created something of a recession in digital advertising. The major ad platforms—Google, YouTube, Snap, Meta, etc.—are seeing slowing or even negative ad revenue growth. Digital real estate was finite to begin with, and supply-demand imbalances made sure that ad prices were steadily creeping up throughout the 2010s. Now, it’s harder than ever to measure those ads or ensure ROI. The old adage goes, “Half my advertising spend is wasted; the trouble is, I don’t know which half.” In a post-ATT world, this takes on new meaning.
+
+I covered ATT in more detail in last year’s CAC: Customer Acquisition Chaos, and one of the best recent pieces breaking it down is Eric Seufert’s ATT Recession. The deterioration of direct response advertising may be the biggest shift in retail right now, as every brand faces CAC headwinds. Some enterprising startups are lessening the hurt. Northbeam and Triple Whale, for instance, are ad attribution platforms that help media buyers understand how their ad spend is performing—something that’s much more difficult in 2023 than in recent years.
+
+We’re also seeing creative new channels emerge. Earlier this month, we announced our investment in Flagship, which lets creators launch their own boutique storefronts that showcase their favorite products. Brands are drawn to Flagship because they pay $0 unless someone converts; when someone buys, they’re happy to give up a percent of the sale because they just acquired a new customer. Flagship boutiques are a new, scalable channel for brands to explore.
+Another example of a new acquisition channel: short-term rentals. Minoan is a startup that lets property managers buy brands for their rental units, where hundreds or thousands of annual visitors will experience the product—say, a Casper mattress, a Fellow coffee grinder, or a West Elm accent chair. Brands clamor to offer property managers discounted goods, because they want to be front-and-center for prospective new customers. In a world with more digital nomads, short-term rentals could become the newest form of experiential retail.
+
+As CACs steadily creep up, brands have to get more creative about how to refine and measure their ad spend, and about how to reach customers through new channels.
+4) Influencer Commerce & Celebrity Brands
+With CACs rising, brands with built-in distribution are well-positioned. In other words, celebrity brands.
+
+I recently got into an argument with a friend about celebrity brands. Inferior celebrity products, he argued, would beat out better products by leveraging free distribution— say, a massive Instagram following. I countered that consumers are savvy, and poorly-executed celebrity brands don’t stand a chance. I stand by that.
+
+There’s a growing graveyard of celebrity brands that failed to catch on; people can sniff out inauthenticity and low effort. Most struggling celebrity brands are silently sunsetted, with a celebrity gradually posting less and less about her brand.
+
+Even big celebs struggle: the WSJ recently reported that Beyoncé’s partnership with Adidas, the clothing brand Ivy Park, saw its sales fall 50% last year. Adidas projected $250M in 2022 sales, but the brand only brought in $40M. Ouch. Ivy Park is now set to lose about $200M for Adidas this year. (My take is that Beyoncé’s aspirational, somewhat-aloof persona is at odds with Ivy Park’s athleisure style. She should have created an ultra-luxury brand.)
+The celebrity brands that endure do three things right: 1) They’re authentic to the celebrity, 2) They have a genuinely unique insight, and 3) They move beyond the celeb figurehead. The two most successful examples, in my mind, are Rihanna’s Fenty and Kim Kardashian’s SKIMS. Their unique insights:
+
+Fenty: Make-up should come in more shades for people of color.
+
+SKIMS: Shapewear is outerwear.
+
+Both are raking in hundreds of millions, if not billions in revenue. They injected new energy into stale categories.
+Both brands have also elevated themselves beyond Rihanna and Kim. SKIMS marketing, for instance, now rarely features Kim herself; the company brilliantly tapped Mia and Lucia from White Lotus Season 2 for its Valentine’s Day campaign, at the exact moment the two women were embedded in the zeitgeist 🤌
+The danger facing celebrity brands is to be too closely associated with the celebrity. Kylie Jenner’s Kylie Cosmetics saw sales fall ~50% when Kylie took a break from posting to Instagram during her pregnancy. And this year, Adidas is set to lose $1.3 billion (!) from Yeezy after Kanye West’s self-destruction.
+
+I tend to be more optimistic about celebrities and influencers as brand curators than as brand creators. Only a select few can build enduring de novo brands. But millions can be arbiters of taste, recommending to their communities what to buy. This is the thinking behind Flagship, mentioned above in the CAC section. Flagship’s business model is designed so that creators do what they do best—offer trusted recommendations:
+The 800-pound gorilla in this category is still LTK (formerly LIKEtoKNOW.it), which just announced that it has a roster of 200,000 influencers driving $3.6B in annual GMV. The company boasts that 200 creators have made over $1M through affiliate on LTK.
+
+One of the longest-running shifts in consumer behavior is trust migrating from corporations to people. Many shoppers would rather buy MrBeast Burger over McDonald’s, George Clooney’s Casamigos over Don Julio, Logan Paul’s Prime over Gatorade. We see this shift both in the rise of celebrity brands, though few have staying power, and in the long-tail curation of the influencer ecosystem.
+5) Self-Expression
+One of the biggest behavior shifts in Gen Z is a shift to more self-expression.
+
+One interesting way this is revealing itself: weddings. The oldest members are Gen Z are 25, and they’re beginning to get married. A report last week found that a third of couples are choosing a wedding theme, up from 13% in 2017—examples include “Taylor Swift and Cats,” “Roaring ‘20s with Star Wars influence,” and “Vintage Nintendo.” And 40% of couples choose signature cocktails, compared with just 17% in 2017. (One thing that hasn’t changed: Ed Sheeran’s “Perfect” reigns as the most-chosen first dance song for the sixth straight year.)
+
+We also see self-expression in the phenomenon of “committing to the bit.” Committing to the bit basically entails ironic consumption. In a piece in The Atlantic last week, Michael Waters told the story of 27-year-old Adonna Biel. Biel isn’t even a Pitbull fan, but she and her coworkers thought it would be funny to go to a Pitbull concert. So they committed to the bit: they rented a car they called the “Pitbus,” they bought Pitbull merch, and they even wore bald caps (Pitbull is famously bald). As a very casual Katy Perry fan who flew to Vegas last year dressed as a plastic bag, committing to the bit resonates with me.
+
+Committing to the bit is a way of sampling identities, of trying on new forms of self-expression. Waters asks, “If committing to the bit means exploring the contours of a new persona, then perhaps it starts with a curiosity: What would it feel like to be that person for a day?”
+
+Many Gen Z-focused brands say something specific about your personality: Madhappy means you value mental health; Dolls Kill means you’re edgy; Nensi Dojaka means you’re a “cool girl.” Expressing personality through clothes is nothing new, of course—but the torrid pace with which young people embrace and discard both their clothes and their identities is new.
+
+This is made possible by secondhand marketplaces. You can try one aesthetic, then sell those clothes on Vinted when you tire of them.
+
+Or you can turn to even nicher marketplaces—Coscove, for instance, is a marketplace for cosplay costumes. Cosplay (a portmanteau of “costume” and “play”) is booming: one report estimated the cosplay costumes market to be $4.6 billion in 2020, growing to $23 billion by 2030, a 17.4% annualized growth rate. The tailwind? Self-expression.
+One stat that surprised me: a Bain report found that the average Gen Z shopper makes their first luxury purchase when they’re 15, compared with 19 for their 30-something counterparts. Part of this embrace of luxury likely stems from the desire to use those products to achieve status or belonging. Part also comes from the fact that they can easily resell those goods on the internet, and move on to buy the next thing.
+Final Thoughts: The Fusion of Offline & Online
+If there’s one overarching trend of commerce in the 21st century, it’s the fusion of offline retail and online retail. The holy grail for a brand is to merge atoms and bits, building relationships with customers in both the physical and digital worlds.
+
+The most pioneering brands find new ways to do so. Nike, for example, allows buyers to design sneakers on its website, and then pick them up in-store. Glossier began as a direct-to-consumer e-commerce brand, but is now launching its much-hyped, stunning Soho flagship—and more importantly, you can now buy Glossier products in Sephora. Omnichannel is the future.
+For the first time since 2016, physical store openings exceeded closings in 2022. And this year, retailers plan to open 3x more stores than they close, as pandemic-driven hesitations around brick-and-mortar give way. Shoppers clearly want a tight tether between online and offline.
+
+Many of the companies mentioned in this piece are B2C—SKIMS and Vinted, for instance. But even more are B2B—Catch and Beam, Flagship and Minoan, Northbeam and Triple Whale. They power a new infrastructure for an omnichannel, technology-infused retail revolution.
+
+What’s fascinating about the retail landscape is how rapidly the consumer experience is evolving. Shopping in 2023 looks very different than shopping in 2013—and shopping in 2033 will likewise stand in stark contrast to shopping today.
+
+Next week, I’ll cover #6 through #10:
+
+AI 🤝 Retail
+
+Immersive Shopping
+
+B2B Commerce Makes Life Easier
+
+Sustainability
+
+Don’t Discount Discounters
+
+Until then 👋
+
